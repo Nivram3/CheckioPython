@@ -48,7 +48,7 @@ print(safe_pawns({"b4", "c4", "d4", "e4", "f4", "g4", "e5"})) #1
 
 
 '''
-Interesting altenate solutions on Checkio
+Interesting alternate solutions on Checkio
 ___________________________________________________________________________________________________________________
 def safe_pawns(pawns: set) -> int:
     
