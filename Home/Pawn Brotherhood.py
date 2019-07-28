@@ -62,4 +62,8 @@ def safe_pawns(pawns: set) -> int:
             counter += 1        
 
     return counter
+<<<<<<< HEAD
 '''
+=======
+'''
+>>>>>>> d658cf25cc635e58a9d00e5893ca6ebfb617cca9

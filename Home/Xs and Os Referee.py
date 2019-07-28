@@ -67,4 +67,8 @@ def checkio(game_result: List[str]) -> str:
 print(checkio([
         "..O",
         "XOX",
+<<<<<<< HEAD
         "O.."]))
+=======
+        "O.."]))
+>>>>>>> d658cf25cc635e58a9d00e5893ca6ebfb617cca9
